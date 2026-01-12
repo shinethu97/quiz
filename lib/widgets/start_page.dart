@@ -14,7 +14,7 @@ class StartPage extends StatelessWidget {
           Image.asset('assets/images/quiz-logo.png', width: 300),
           SizedBox(height: 16),
           Text(
-            "Let Learn React Quiz",
+            "Let Learn CSS Quiz",
             style: TextStyle(
               color: const Color.fromARGB(255, 255, 255, 255),
               fontSize: 24,
